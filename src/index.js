@@ -28,7 +28,7 @@ const createIncrementer = () => {};
 // return same argument not earlier than in one second, and not later, than in two
 const returnBackInSecond = () => {};
 const getDeepPropertiesCount = () => {};
-const createSerializedObject = () => {};
+const createSerializedObject = () => null;
 const toBuffer = () => {};
 const sortByProto = (arr) => {return arr.sort((a,b) => a.__proto__ - b.__proto__)};
 
